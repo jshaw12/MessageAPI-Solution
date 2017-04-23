@@ -1,0 +1,7 @@
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Core\bin\Debug\MessageAPI.Core.dll
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Core\bin\Debug\MessageAPI.Core.pdb
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Core\obj\Debug\MessageAPI.Core.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Core\obj\Debug\MessageAPI.Core.dll
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Core\obj\Debug\MessageAPI.Core.pdb
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Core\bin\Debug\MessageAPI.Core.dll.CodeAnalysisLog.xml
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Core\bin\Debug\MessageAPI.Core.dll.lastcodeanalysissucceeded

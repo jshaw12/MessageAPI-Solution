@@ -1,0 +1,9 @@
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Facade\bin\Debug\MessageAPI.Facade.dll
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Facade\bin\Debug\MessageAPI.Facade.pdb
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Facade\bin\Debug\MessageAPI.Core.dll
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Facade\bin\Debug\MessageAPI.Core.pdb
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Facade\obj\Debug\MessageAPI.Facade.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Facade\obj\Debug\MessageAPI.Facade.dll
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Facade\obj\Debug\MessageAPI.Facade.pdb
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Facade\bin\Debug\MessageAPI.Facade.dll.CodeAnalysisLog.xml
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Facade\bin\Debug\MessageAPI.Facade.dll.lastcodeanalysissucceeded

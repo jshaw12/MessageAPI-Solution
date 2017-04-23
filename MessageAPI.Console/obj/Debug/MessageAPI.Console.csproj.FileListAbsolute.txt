@@ -1,0 +1,12 @@
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\bin\Debug\MessageAPI.Console.exe.config
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\bin\Debug\MessageAPI.Console.exe
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\bin\Debug\MessageAPI.Console.pdb
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\obj\Debug\MessageAPI.Console.exe
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\obj\Debug\MessageAPI.Console.pdb
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\bin\Debug\MessageAPI.Core.dll
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\bin\Debug\MessageAPI.Facade.dll
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\bin\Debug\MessageAPI.Core.pdb
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\bin\Debug\MessageAPI.Facade.pdb
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\obj\Debug\MessageAPI.Console.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\bin\Debug\MessageAPI.Console.exe.CodeAnalysisLog.xml
+C:\Users\Joel\Documents\GitHub\MessageAPI-Solution\MessageAPI\MessageAPI.Console\bin\Debug\MessageAPI.Console.exe.lastcodeanalysissucceeded
